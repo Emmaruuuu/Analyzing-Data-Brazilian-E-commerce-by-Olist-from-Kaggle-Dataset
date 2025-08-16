@@ -1,7 +1,6 @@
 # Proyek Analisis Data: [E-Commerce Public Dataset] ✨
 Dataset : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Zip Pengumpulan (sama, namun lebih terstruktur) : https://intip.in/HasilProyekDataAnalyst
 
 
 
@@ -17,3 +16,6 @@ pip install streamlit pandas matplotlib numpy seaborn plotly
 streamlit run dashboard.py
 ```
 
+
+
+Zip Pengumpulan (sama, namun lebih terstruktur) : https://intip.in/HasilProyekDataAnalyst
