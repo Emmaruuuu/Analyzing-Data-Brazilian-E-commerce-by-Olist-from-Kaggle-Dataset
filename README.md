@@ -1,6 +1,5 @@
 # Proyek Analisis Data: [E-Commerce Public Dataset] ✨
 Dataset : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-Submission (isi dari submission sama dengan github ini, namun lebih terstruktur dan dalam bentuk zip): https://intip.in/HasilProyekDataAnalyst
 
 ## Setup environment
 ```
